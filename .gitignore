@@ -26,8 +26,11 @@ wp-config.php
 # Example themes
 /wp-content/themes/twenty*/
 
-# Example plugin
+# other folders
 /wp-content/plugins
+/wp-content/ai1wm-backups
+/wp-content/upgrade
+/wp-content/upgrade-temp-backup
 
 # Uploads
 /wp-content/uploads/
